@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm Shukrullayev Botirxo'ja</h1>
-<h3 align="center">I am a frontend developer who enjoys creating user-friendly and visually appealing interfaces. My interest in programming has driven me to gain in-depth knowledge in this field, and I continually work on improving my skills. I am currently studying at the National University of Uzbekistan and am involved in various projects to enhance my expertise. My main tools include JavaScript, React, SCSS, and other modern technologies. In the future, I aim to further expand my knowledge and skills to achieve significant results in this field. You can explore my projects and code on my GitHub page. Feel free to reach out if you'd like to connect!</h3>
+### Hi I'm Akbar Iskanderov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iskanderovv.iskanderovv)![](https://hit.yhype.me/github/profile?user_id=117995945)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shukrullaevicc&label=Profile%20views&color=0e75b6&style=flat" alt="shukrullaevicc" /> </p>
+- 🔭 I’m React Js Developer.
+- 🌱 I’m currently learning Typescript
+- 💬 Ask me about anything, I am happy to help.
+- 😄 Pronouns: he / his.
+- 📍 &nbsp;Current location: Tashkent, Uzbekistan.
+- 📫 How to reach me: <a href="https://t.me/shukrullayev_b"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a> <a href="https://www.linkedin.com/in/akbar-iskandarov-33a8a6232/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:botirshukrullayev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 
-- 💬 Ask me about **react, vue**
+### Languages and Tools I work with:
 
-- 📫 How to reach me **botirshukrullayev@gmail.com**
+![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=323330)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-323330?style=flat&logo=react&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=ant-design&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-8E44AD?style=flat&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Redux-toolkit](https://img.shields.io/badge/-Redux--toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-- ⚡ Fun fact **I am Funny**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center" style="display: flex; justify-content: center;">
+    <a href="https://github.com/iskanderovv#gh-light-mode-only">
+        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&custom_title=iskanderovv%27s%20github%20stats&hide_border=true&line_height=28&theme=graywhite" align="center"/>
+    </a>
+    <a href="https://github.com/iskanderovv#gh-light-mode-only">
+        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align="center"/>
+    </a>
+</p>
+<p align="center" style="display: flex; justify-content: center;">
+    <a href="https://github.com/iskanderovv#gh-dark-mode-only">
+        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&custom_title=iskanderovv%27s%20github%20stats&hide_border=true&line_height=28&theme=dark" align="center"/>
+    </a>
+    <a href="https://github.com/iskanderovv#gh-dark-mode-only">
+        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderovv&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align="center"/>
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shukrullaevicc&show_icons=true&locale=en&layout=compact" alt="shukrullaevicc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shukrullaevicc&show_icons=true&locale=en" alt="shukrullaevicc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shukrullaevicc&" alt="shukrullaevicc" /></p>
+<p align="center">
+    <a href="https://github.com/iskanderovv#gh-light-mode-only">
+        <img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iskanderovv&theme=default" alt="erdkse" />
+    </a>
+    <a href="https://github.com/iskanderovv#gh-dark-mode-only">
+        <img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iskanderovv&theme=dark" alt="erdkse" />
+    </a>
+</p>
