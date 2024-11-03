@@ -1,7 +1,12 @@
+<div align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></div>
 <h1 align="center">Hi 👋, I'm SHukrullayev Botirxo'ja</h1>
 <h3 align="center">A passionate frontend developer from Uzbekiston</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shukrullaevicc&label=Profile%20views&color=0e75b6&style=flat" alt="shukrullaevicc" /> </p>
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=shukrullaevicc&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shukrullaevicc&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shukrullaevicc&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=shukrullaevicc&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ### My topic
 
