@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm SHukrullayev Botirxo'ja</h1>
 <h3 align="center">A passionate frontend developer from Uzbekiston</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shukrullaevicc&label=Profile%20views&color=0e75b6&style=flat" alt="shukrullaevicc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shukrullaevicc&label=Profile%20views&color=0e75b6&style=flat" alt="shukrullaevicc" /> </p>
+
+### My topic
+
+---
 
 - 🔭 I’m currently working on **Test**
 
